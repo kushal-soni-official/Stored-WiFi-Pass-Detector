@@ -2,6 +2,10 @@
 
 A simple Python tool for Windows that lists all stored Wi‑Fi networks (SSIDs) and their saved passwords using the `netsh` command.
 
+## Preview
+
+
+
 ## Features
 - Retrieves all Wi‑Fi profiles from the system.
 - Displays the password (if available) for each profile.
